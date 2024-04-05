@@ -1,4 +1,8 @@
 ### Hi there 👋
+안녕하세요. 2년차 프론트엔드 개발자입니다.
+
+### TECH
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
