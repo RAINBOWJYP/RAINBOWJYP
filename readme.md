@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=HENA&fontSize=90)
 
 
-안녕하세요. 2년차 프론트엔드 개발자 HENA 입니다.
+안녕하세요. 2년차 프론트엔드 개발자 <strong>🐈‍⬛HENA🐈‍⬛</strong> 입니다. <br/>
 좋은 품질을 만드는 것에는 개인적 역량보단 팀과 함께 만드는 시너지가 중요하다고 생각하여개발 프로세스와 개발 문화를 개선하고 있습니다.
 
 
@@ -24,6 +24,6 @@
 
 <strong>ETC</strong> ![Static Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Static Badge](https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white) ![Static Badge](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white), ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Static Badge](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Static Badge](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white) ![Static Badge](https://img.shields.io/badge/Zeplin-FFB800?style=flat&logo=zeplin&logoColor=white) ![Static Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainbowjyp)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainbowjyp)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainbowjyp)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainbowjyp&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
