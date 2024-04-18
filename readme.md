@@ -25,6 +25,5 @@
 <strong>ETC</strong> ![Static Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Static Badge](https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white) ![Static Badge](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white), ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Static Badge](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Static Badge](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white) ![Static Badge](https://img.shields.io/badge/Zeplin-FFB800?style=flat&logo=zeplin&logoColor=white) ![Static Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainbowjyp)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainbowjyp)](https://github.com/anuraghazra/github-readme-stats)
 
