@@ -10,9 +10,9 @@
 
 업무 중 사용했던 혹은 사용중인 기술들입니다.
 
-<strong>Lang</strong> ![Static Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white) ![Static Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Static Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+<strong>Lang</strong> ![Static Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white) ![Static Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Static Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) 
 
-<strong>Front</strong> ![Static Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Static Badge](https://img.shields.io/badge/recoil-3578E5?style=flat&logo=recoil&logoColor=white) ![Static Badge](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styledcomponents&logoColor=white) ![Static Badge](https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<strong>Front</strong> ![Static Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Static Badge](https://img.shields.io/badge/recoil-3578E5?style=flat&logo=recoil&logoColor=white) ![Static Badge](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styledcomponents&logoColor=white) ![Static Badge](https://img.shields.io/badge/storybook-FF4785?style=flat&logo=storybook&logoColor=white) ![Static Badge](https://img.shields.io/badge/nextdotjs-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 <strong>Back</strong> ![Static Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 
