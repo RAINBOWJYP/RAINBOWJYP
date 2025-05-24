@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=HENA&fontSize=90)
 
 
-안녕하세요. 2년차 프론트엔드 개발자 <strong>🐈‍⬛HENA🐈‍⬛</strong> 입니다. <br/>
-좋은 품질을 만드는 것에는 개인적 역량보단 팀과 함께 만드는 시너지가 중요하다고 생각하여 개발 프로세스와 개발 문화를 개선하고 있습니다.
-
+안녕하세요. 3년차 프론트엔드 개발자 <strong>🐈‍⬛HENA🐈‍⬛</strong> 입니다. <br/>
 
 
 ### TECH
